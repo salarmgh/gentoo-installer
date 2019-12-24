@@ -1,0 +1,5 @@
+BLOCK_DEVICE=/dev/nvme0n1
+DISK_UEFI_SIZE=512M
+DISK_ROOT_SIZE=50G
+DISK_SWAP_SIZE=4G
+STAGE_URL=http://distfiles.gentoo.org/releases/amd64/autobuilds/20191211T214502Z/hardened/stage3-amd64-hardened+nomultilib-20191211T214502Z.tar.xz
